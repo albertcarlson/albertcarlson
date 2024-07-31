@@ -5,8 +5,8 @@ Product Developer
 -----------------
 
 *   🌍  I'm based in Copenhagen, Denmark 🇩🇰
-*   🖥️  See my portfolio at [albertcarlson.tech](http://albertcarlson.tech)
-*   ✉️  You can contact me at [ac@albertcarlson.tech](mailto:ac@albertcarlson.tech)
+*   🖥️  See my portfolio at [website coming soon](https://example.com)
+*   ✉️  You can contact me at [mail coming soon]
 *   🚀  I'm currently working on [a Prisoner’s Dilemma Simulation](http://github.com/albertcarlson/prisoners-dilemma)
 *   🤝  I'm open to collaborating on projects regarding automation, especially if it’s finance or math related! 📈
 
