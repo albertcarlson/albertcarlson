@@ -8,7 +8,7 @@ Product Developer
 *   🖥️  See my portfolio at [website coming soon](https://example.com)
 *   ✉️  You can contact me at [mail coming soon]
 *   🚀  I'm currently working on [a Prisoner’s Dilemma Simulation](http://github.com/albertcarlson/prisoners-dilemma)
-*   🤝  I'm open to collaborating on projects regarding automation, especially if it’s finance or math related! 📈
+*   🤝  I'm open to collaborating on projects regarding automation, especially if it’s math related! 📈
 
 Skills
 ------
