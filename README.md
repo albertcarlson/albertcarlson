@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Albert Carlson
 =======================================================================================================================================
 
-Product Developer
------------------
+Mathematics Student
+-------------------
 
 *   🌍  I'm based in Copenhagen, Denmark 🇩🇰
-*   🖥️  See my portfolio at [website coming soon](https://example.com)
-*   ✉️  You can contact me at [mail coming soon]
-*   🚀  I'm currently working on [a Prisoner’s Dilemma Simulation](http://github.com/albertcarlson/prisoners-dilemma)
-*   🤝  I'm open to collaborating on projects regarding automation, especially if it’s math related! 📈
+*   🖥️  See my blog at https://albertbencarlson.com
+*   ✉️  You can contact me at abc@albertbencarlson.com
+*   🚀  I don't have a lot of public repositories at the moment, since I am prioritizing by mathematics studies.
+*   🤝  Nonetheless, I'm open to collaborating on projects, especially if it’s math related! 📈
 
 Skills
 ------
