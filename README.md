@@ -5,8 +5,8 @@ Mathematics Student
 -------------------
 
 *   🌍  I'm based in Copenhagen, Denmark 🇩🇰
-*   🖥️  See my blog at [albertbencarlson.com](https://albertbencarlson.com)
-*   ✉️  You can contact me at abc@albertbencarlson.com
+<!--*   🖥️  See my blog at [albertbencarlson.com](https://albertbencarlson.com)-->
+<!--*   ✉️  You can contact me at abc@albertbencarlson.com-->
 *   🚀  I don't have a lot of public repositories at the moment, since I am prioritizing by mathematics studies
 *   🤝  Nonetheless, I'm open to collaborating on projects, especially if it’s math related!
 
